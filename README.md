@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ader2426
 - 👀 I’m interested in Frontend Development 
-- 🌱 I’m currently learning HTML,CSS,JS
+- 🌱 I’m currently learning HTML,CSS,JS,React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
